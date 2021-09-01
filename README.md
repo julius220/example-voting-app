@@ -1,6 +1,6 @@
 Example Voting App
 =========
-You are good
+You are good branch
 Getting started
 ---------------
 
